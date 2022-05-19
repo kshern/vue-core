@@ -4,6 +4,8 @@
 
 Please follow the documentation at [vuejs.org](https://vuejs.org/)!
 
+test
+
 ## Sponsors
 
 Vue.js is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/vuejs/core/blob/main/BACKERS.md). If you'd like to join them, please consider [ sponsor Vue's development](https://vuejs.org/sponsor/).
